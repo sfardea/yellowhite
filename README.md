@@ -10,4 +10,4 @@ npm install
 node scrape.js
 
 ```
-Display results [http://localhost:3200/](http://localhost:3200/)
+Display results at [http://localhost:3200/](http://localhost:3200/)
