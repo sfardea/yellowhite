@@ -6,7 +6,8 @@ Yellowhite is a scraping script based on [Puppeteer](https://github.com/GoogleCh
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# run
 node scrape.js
 
 ```
+Display results on port 3200 [http://localhost:3200/](http://localhost:3200/)
